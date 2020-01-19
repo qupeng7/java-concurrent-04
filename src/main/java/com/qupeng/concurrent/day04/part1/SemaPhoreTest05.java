@@ -7,7 +7,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * 信号灯
  * 那么是否可以先放再拿呢？
- * @author Peter
+ * @author qupeng
  */
 public class SemaPhoreTest05 {
 	

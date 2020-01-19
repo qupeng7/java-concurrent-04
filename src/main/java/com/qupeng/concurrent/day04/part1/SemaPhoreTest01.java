@@ -9,7 +9,7 @@ import java.util.concurrent.Semaphore;
  * 信号灯可以有多个且其可以实现灯的释放可以是不同线程，
  * 就可以解决死锁的问题；
  * 如果构造器为1，那么就和ReentrantLock用法类似
- * @author Peter
+ * @author qupeng
  */
 public class SemaPhoreTest01 {
 	

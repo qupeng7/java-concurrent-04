@@ -8,7 +8,7 @@ import java.util.concurrent.TimeoutException;
  * 线程间数据交换工具
  * 交换时后是操作的同一个引用和同一个堆内存对象
  * 所以必须考虑交换数据的线程安全问题
- * @author Peter
+ * @author qupeng
  */
 public class ExchangerTest03 {
 

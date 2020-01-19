@@ -4,7 +4,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * 原子int类型
- * @author Peter
+ * @author qupeng
  */
 public class AtomicIntegerTest01 {
 	

@@ -5,7 +5,7 @@ import java.util.concurrent.Semaphore;
 /**
  * 信号灯
  * 对中断的感知
- * @author Peter
+ * @author qupeng
  */
 public class SemaPhoreTest03 {
 	

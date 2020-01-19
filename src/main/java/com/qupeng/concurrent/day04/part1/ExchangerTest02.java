@@ -8,7 +8,7 @@ import java.util.concurrent.TimeoutException;
  * 线程间数据交换工具
  * 使用超时的方式进行交换
  * 早到的会抛超时异常，迟到一方就会一直等待
- * @author Peter
+ * @author qupeng
  */
 public class ExchangerTest02 {
 

@@ -9,7 +9,7 @@ import java.util.concurrent.Semaphore;
  * 并且SemaPhore还提供有
  * 获取当前灯的个数和当前等待线程数的API
  * 这样就可以在运行过程中对齐进行控制
- * @author Peter
+ * @author qupeng
  */
 public class SemaPhoreTest02 {
 	

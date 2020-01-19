@@ -4,7 +4,7 @@ import java.util.concurrent.Exchanger;
 
 /**
  * 线程间数据交换工具
- * @author Peter
+ * @author qupeng
  */
 public class ExchangerTest01 {
 

@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 信号灯
  * 拿走全部的灯、尝试获取并设置超时时间
- * @author Peter
+ * @author qupeng
  */
 public class SemaPhoreTest04 {
 	

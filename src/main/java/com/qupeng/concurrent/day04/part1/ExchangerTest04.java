@@ -10,7 +10,7 @@ import java.util.concurrent.TimeoutException;
 /**
  * 线程间数据交换工具
  * 是否能进行多次交换
- * @author Peter
+ * @author qupeng
  */
 public class ExchangerTest04 {
 
